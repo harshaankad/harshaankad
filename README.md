@@ -30,7 +30,7 @@
 
 ### 🐍 My Contributions
 
-![snake gif](https://github.com/harshaankad/harshaankad/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/harshaankad/blob/output/github-contribution-grid-snake.svg)
 
 
 
