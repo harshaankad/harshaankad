@@ -28,9 +28,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harshaankad&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 🐍 My Contributions
-
-![snake gif](https://github.com/harshaankad/blob/output/github-contribution-grid-snake.svg)
 
 
 
