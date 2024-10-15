@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Ankad</h1>
 <div align="center"> <img src="https://github.com/harshaankad/harshaankad/blob/main/header.png"> </div>
-<h3 align="center">A passionate computer science student at PES University</h3>
+<h3 align="center">A passionate Computer Science student at PES University</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaankad&label=Profile%20views&color=0e75b6&style=flat" alt="harshaankad" /> </p>
 
