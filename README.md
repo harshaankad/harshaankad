@@ -25,6 +25,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshaankad&show_icons=true&locale=en&layout=compact" alt="harshaankad" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harshaankad&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 
 <!--
 **harshaankad/harshaankad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
